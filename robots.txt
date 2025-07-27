@@ -20,4 +20,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bioplspro.vercel.app/sitemap.xml
+Sitemap: https://buy-primebiome.vercel.app/sitemap.xml
